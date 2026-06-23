@@ -1,0 +1,686 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "BTPjSEXtiSRs67z2QeSMmHkTpDA",
+    "nextPageToken": "CBQQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+        "totalResults": 595641,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-0yM29OrwaT5DYA9huNiU0eE134",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K1hEwr-UNd0"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-06T12:30:32Z",
+                "channelId": "UCYJhto4Of0p8eKKxmB2un9g",
+                "title": "\ud835\uddd7\ud835\udde2 \ud835\udde1\ud835\udde2\ud835\udde7 \ud835\udddf\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddfb \ud835\uddd7\ud835\uddee\ud835\ude01\ud835\uddee \ud835\uddd8\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddea\ud835\uddf6\ud835\ude01\ud835\uddf5\ud835\uddfc\ud835\ude02\ud835\ude01 \ud835\uddea\ud835\uddee\ud835\ude01\ud835\uddf0\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde7\ud835\uddf5\ud835\uddf6\ud835\ude00! | \ud835\uddd7\ud835\uddee\ud835\ude01\ud835\uddee \ud835\uddd8\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde5\ud835\uddfc\ud835\uddee\ud835\uddf1\ud835\uddfa\ud835\uddee\ud835\uddfd \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udff2",
+                "description": "For More Course Details Click On This Form ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K1hEwr-UNd0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K1hEwr-UNd0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K1hEwr-UNd0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FrontLinesMedia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-06T12:30:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9mQJl3gKFGOlxK1i1TjzefK2ZoE",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC3qp2FCeaQ5HhA3jHWHbrxg"
+            },
+            "snippet": {
+                "publishedAt": "2013-01-30T10:13:18Z",
+                "channelId": "UC3qp2FCeaQ5HhA3jHWHbrxg",
+                "title": "Data Engineering ",
+                "description": "Welcome to the Data Engineering channel This channel is focused on helping you learn Data Engineering from scratch to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/1DKulsCDWRCpuldTYSnh-tIiBtKWJWESfL84BWlH7NWdlZpV0rMJq9ogzUPSt2WNomLizZAaOA=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/1DKulsCDWRCpuldTYSnh-tIiBtKWJWESfL84BWlH7NWdlZpV0rMJq9ogzUPSt2WNomLizZAaOA=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/1DKulsCDWRCpuldTYSnh-tIiBtKWJWESfL84BWlH7NWdlZpV0rMJq9ogzUPSt2WNomLizZAaOA=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Data Engineering ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-01-30T10:13:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Pi4UsKReVFqHODRqDpNxBLUvCwE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hf2go3E2m8g"
+            },
+            "snippet": {
+                "publishedAt": "2024-08-18T13:05:41Z",
+                "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+                "title": "Fundamentals Of Data Engineering Masterclass",
+                "description": "Check Out My Data Engineering Bootcamp: https://datavidhya.com/data-engineering-course-bundle/ Check website for latest ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hf2go3E2m8g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hf2go3E2m8g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hf2go3E2m8g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Darshil Parmar",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-08-18T13:05:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KxoZAr4caQxyf_xpVcoBruNzdTo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nFT0M7JJtsw"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-04T03:46:44Z",
+                "channelId": "UCigb9xf3iekhQiVh5XKW6Ww",
+                "title": "Data Engineering RoadMap",
+                "description": "Roadmap to Become a Data Engineer in 2025 Want to start your career in Data Engineering but don't know where to begin?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nFT0M7JJtsw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nFT0M7JJtsw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nFT0M7JJtsw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CodewithPrashant ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-04T03:46:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6_lJ2_U3F3k83QjXS7JatEVdKSQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Pjx0AVg5lVY"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-01T01:02:03Z",
+                "channelId": "UC1ovhwPjCoXXXH1k6dOuFOg",
+                "title": "data engineering roadmap#data#dataengineering #road#datascience#education #information#dataanalytics",
+                "description": "data engineering roadmap,data engineering,data engineer roadmap,learn data engineering,data engineering roadmap 2024 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pjx0AVg5lVY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pjx0AVg5lVY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pjx0AVg5lVY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Information hub",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-01T01:02:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7nUgf60PR_IvLT9iDhRxasyw144",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1nVGaNbvuXg"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-20T13:08:02Z",
+                "channelId": "UC8_RSKwbU1OmZWNEoLV1tQg",
+                "title": "How I\u2019d Learn Data Engineering in 2026 From Zero to Senior (Built by a Data Engineer)",
+                "description": "DataCamp Associate Data Engineer in SQL - https://datacamp.pxf.io/4GO30o \u25bb DataCamp Data Engineer Certification ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1nVGaNbvuXg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1nVGaNbvuXg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1nVGaNbvuXg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Data with Baraa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-20T13:08:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XPV3qEHrNGWxAs7UFXahPnqd-mA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PHsC_t0j1dU"
+            },
+            "snippet": {
+                "publishedAt": "2024-01-16T15:22:46Z",
+                "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+                "title": "Data Engineering Course for Beginners",
+                "description": "Learn the essentials of data engineering in this course for beginners. You'll learn about Databases, Docker, and analytical ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PHsC_t0j1dU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PHsC_t0j1dU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PHsC_t0j1dU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "freeCodeCamp.org",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-01-16T15:22:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vXENyZbaLbeByZ-Oo2DPGgwj1VM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qWru-b6m030"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-17T13:43:16Z",
+                "channelId": "UCEKI_F16hUtBHcw9tBtr24Q",
+                "title": "How Data Engineering Works",
+                "description": "So, the sole purpose of data engineering is to take data from the source and save it to make it available for analysis. Sounds ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qWru-b6m030/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qWru-b6m030/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qWru-b6m030/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AltexSoft | TravelTech, AI & Software Engineering",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-17T13:43:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KvyOQbtFotx_WbO0c-0dv5Caq4U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C5LbRwqpfAI"
+            },
+            "snippet": {
+                "publishedAt": "2025-01-22T14:42:41Z",
+                "channelId": "UC81Q2wnuk5KqOFVgAbq4nUw",
+                "title": "3.3LPA in Cognizant to 4Crore Package | Data Engineer",
+                "description": "Data science training with job assistance: https://hubs.la/Q0336LQd0 I'm Fraz, an ex-Google engineer, content creator, and the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C5LbRwqpfAI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C5LbRwqpfAI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C5LbRwqpfAI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fraz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-01-22T14:42:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-nfHSvUCqE01IHdgSypK1N1RS-0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TkZBN4GHCzo"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-02T14:04:39Z",
+                "channelId": "UC9xghV-TcBwGvK-aEMhpt5w",
+                "title": "\ud835\udc0d\ud835\udc28\ud835\udc1b \ud835\udc2d\ud835\udc28 \ud835\udc0f\ud835\udc2b\ud835\udc28: \ud835\udfd0\ud835\udfce\ud835\udfd0\ud835\udfd3 \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a \ud835\udc04\ud835\udc27\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1e\ud835\udc2b\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc11\ud835\udc28\ud835\udc1a\ud835\udc1d\ud835\udc26\ud835\udc1a\ud835\udc29 in Tamil",
+                "description": "Mastering Data Engineering in 2025: A Complete Roadmap\u201d Unlock your potential in data engineering with this ultimate 2025 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TkZBN4GHCzo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TkZBN4GHCzo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TkZBN4GHCzo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Data Engineering",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-02T14:04:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_7U1QnOEcqB8ehAEWZ_GkbaGk0Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SETspQRY9ZU"
+            },
+            "snippet": {
+                "publishedAt": "2026-01-21T13:30:26Z",
+                "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+                "title": "Data Engineer Roadmap 2026 | How I&#39;d learn Data Engineering in 2026",
+                "description": "With the rapid growth of data, AI, and cloud systems, Data Engineering has become a foundational role in the data ecosystem.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SETspQRY9ZU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SETspQRY9ZU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SETspQRY9ZU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "codebasics",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-01-21T13:30:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AaQhg2YjxVlf-NAwQoauYuheY30",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-Ueb6ZbBwds"
+            },
+            "snippet": {
+                "publishedAt": "2026-04-17T13:20:49Z",
+                "channelId": "UC3qp2FCeaQ5HhA3jHWHbrxg",
+                "title": "Data Engineering Full Roadmap | Skills You Must Learn (Beginner to Pro)",
+                "description": "Telugu Video - https://youtu.be/0KHwoGjdFLs Tamil Video - https://youtu.be/ZG-bVewuqds Roadmap webiste link ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-Ueb6ZbBwds/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-Ueb6ZbBwds/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-Ueb6ZbBwds/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Data Engineering ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-04-17T13:20:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i5_n2AFvHPcWjEYeMDw74i3Cgnw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZRz-7E-7X7c"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-17T13:00:39Z",
+                "channelId": "UCu7lQE-L5gzt8aD7zuuufjw",
+                "title": "Fundamentals of Data Engineering Masterclass (From SCRATCH!)",
+                "description": "Fundamentals of Data Engineering Masterclass | Data Engineering Full Course | Data Engineering Bootcamp What You'll Learn ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZRz-7E-7X7c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZRz-7E-7X7c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZRz-7E-7X7c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ansh Lamba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-17T13:00:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4xZqm2iYf3RxpO5NjfgjrNC7FUo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bWIZqtlcnnY"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-17T08:00:13Z",
+                "channelId": "UCCktnahuRFYIBtNnKT5IYyg",
+                "title": "What Is Data Engineering | Data Engineering Explained | How To Become A Data Engineer | Intellipaat",
+                "description": "Intellipaat Data Engineering course: https://intellipaat.com/pgp-data-engineering-mit-job-guarantee/ #WhatIsDataEngineering ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bWIZqtlcnnY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bWIZqtlcnnY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bWIZqtlcnnY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Intellipaat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-17T08:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ALozBfwMcTJ53BsLALGu0MicKLA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iEQJYVCb8Fo"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-24T14:32:32Z",
+                "channelId": "UCO9qM2n02cap7qtH79s4J9A",
+                "title": "Azure Data Engineer Roadmap with Free Resources!!",
+                "description": "I have prepared Complete Interview Preparation Guide for Data ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iEQJYVCb8Fo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iEQJYVCb8Fo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iEQJYVCb8Fo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shubham Wadekar",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-24T14:32:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "htYCu6bYceZdDdMRgzp4AQGJgwg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "odZHmYgebbw"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-13T12:26:36Z",
+                "channelId": "UC8_RSKwbU1OmZWNEoLV1tQg",
+                "title": "How I would learn Data Engineering (if I could start over) \u2013 Built by a Data Engineer",
+                "description": "Subscribe* for more Free Data content: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/odZHmYgebbw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/odZHmYgebbw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/odZHmYgebbw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Data with Baraa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-13T12:26:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MlxRhGMHYL7h2nAw2coKiFbkwsA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hTjo-QVWcK0"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-07T11:57:18Z",
+                "channelId": "UCw_LFe2pS8x3NyipGNJgeEA",
+                "title": "What Does a Data Engineer ACTUALLY Do?",
+                "description": "Free Data Analyst Roadmap: https://learnwithlukas.com/da Data Analyst Certification: https://datacamp.pxf.io/lukasanalyst ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hTjo-QVWcK0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hTjo-QVWcK0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hTjo-QVWcK0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Learn with Lukas",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-07T11:57:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uQXs33Rt8sFqI7oKU8lSH2XpREY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iA7VhITxO9w"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-10T12:52:00Z",
+                "channelId": "UCUTDd3ieNmKDtHu4VJAsNZA",
+                "title": "Top 5 Courses every Data Engineer must take to stay ahead in 2025 #dataengineering #dataengineers",
+                "description": "Recommended Courses & Resource \"All links are mentioned in the extended description of this video.\" Check out Full Videos for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iA7VhITxO9w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iA7VhITxO9w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iA7VhITxO9w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Data with Pranjal",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-10T12:52:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YsdQNU3R24WhTUOkyTSVNTOzSCw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4ifxQ_th07U"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-23T14:09:38Z",
+                "channelId": "UCChmJrVa8kDg05JfCmxpLRw",
+                "title": "Only Data Engineering Roadmap You Need 2026",
+                "description": "Check Out My Data Engineering Bootcamp: https://datavidhya.com/data-engineering-course-bundle/ USE CODE: COMBO50 for a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4ifxQ_th07U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4ifxQ_th07U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4ifxQ_th07U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Darshil Parmar",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-23T14:09:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OpVFM_WbYC0RPDZyh2iUKTFwqik",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TlmA6sFt55E"
+            },
+            "snippet": {
+                "publishedAt": "2026-02-05T12:30:52Z",
+                "channelId": "UCKOk1DiU3eUZV5CO0slBrMw",
+                "title": "Data Engineer Roadmap 2026 | DO NOT Start Data Engineering Without Watching This",
+                "description": "Check out the Data Engineering Program by BOSSCODER ACADEMY: https://bcalinks.com/DpqVQS2 This video answers how to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TlmA6sFt55E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TlmA6sFt55E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TlmA6sFt55E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Akber Shaikh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2026-02-05T12:30:52Z"
+            }
+        }
+    ]
+}
